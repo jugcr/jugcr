@@ -32,5 +32,7 @@ Queremos unir a la comunidad por lo que eventualmente estaremos realizando event
 ¿Interesado en convertirse en patrocinador de JUGCR? [Los beneficios del patrocinador incluyen](https://javausergroupcr.com/beneficios-del-patrocinio/)
 
 ## 🧲 Siguenos en nuestras redes sociales.
-&emsp; <a href=""><img height="30" src="https://github.com/daferso93/daferso93/blob/main/icons/instagram.png?raw=true"></a>
-&emsp; <a href=""><img height="30" src="https://github.com/daferso93/daferso93/blob/main/icons/linkedin.png?raw=true"></a>
+&emsp; <a href=""><img height="30" src="https://github.com/jugcr/jugcr/blob/main/resources/instagram.png?raw=true"></a>
+&emsp; <a href="https://cr.linkedin.com/in/jug-costa-rica-121197201"><img height="30" src="https://github.com/jugcr/jugcr/blob/main/resources/linkedin.png?raw=true"></a>
+&emsp; <a href="https://www.facebook.com/javausergroupcr/"><img height="30" src="https://github.com/jugcr/jugcr/blob/main/resources/facebook.png?raw=true"></a>
+&emsp; <a href="https://twitter.com/jug_cr"><img height="30" src="https://github.com/jugcr/jugcr/blob/main/resources/twitter.png?raw=true"></a>
